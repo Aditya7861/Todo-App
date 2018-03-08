@@ -1,2 +1,1 @@
-This is a simple node.js app which is used to take notes and save them.
-Project is Under Development
+This is my first Project With Node.js and MongoDB. This project for beginer . Feel Free to Contribute
